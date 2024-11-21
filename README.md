@@ -1,4 +1,4 @@
-![image.png]()
+![OnAir](./doc/OnAir.png)
 
 ## 👨‍👨‍👦‍👦 FM 404.NotFound 팀 소개  
 | 이상철 | 이철민 | 박동현 |
@@ -97,6 +97,7 @@
 
 ### 💵 AI DJ에게 사연을 보내보세요
 설정한 성격에 따라 사연을 읽어주고 대답을 해줍니다.
+
 <img src="./resources/사연전송.jpg" width="200">
 
 
