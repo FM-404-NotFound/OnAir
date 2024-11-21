@@ -110,7 +110,7 @@
 | 5. 사연 전송 | 6. 사연 |7. 날씨 | 8. 뉴스 | 9. 노래 |
 |---|---|---|---|---|
 |사연을 보낼 수 있어요|사연이 채택되면 DJ가 읽어줘요|날씨를 읽어줘요|뉴스를 읽어줘요|플레이리스트에서 노래를 틀어줘요|
-|<img src="./resources/작동화면/5.사연생성.gif" width="290"/>|<img src="./resources/작동화면/6. 사연.png" width="250"/>|<img src="./resources/작동화면/7.날씨.jpg" width="250"/>| <img src="./resources/작동화면/8.뉴스.jpg" width="250"/> |<img src="./resources/작동화면/9.플레이리스트2.jpg" width="300"/>|
+|<img src="./resources/작동화면/5.사연생성.gif" width="175"/>|<img src="./resources/작동화면/6. 사연.png"/>|<img src="./resources/작동화면/7.날씨.jpg" />| <img src="./resources/작동화면/8.뉴스.jpg"/> |<img src="./resources/작동화면/9.플레이리스트2.jpg" width=/>|
 
 
 # 🔨 기술 소개
